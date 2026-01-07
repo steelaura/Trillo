@@ -1,2 +1,2 @@
-# <a href="https://moonimori.github.io/Trillo/">Trillo</a>
+# <a href="https://wishik.github.io/Trillo/">Trillo</a>
 Landing page for Trillo project (courses)
